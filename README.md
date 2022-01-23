@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Dave
 
-<!--
-**ZR6LSD/ZR6LSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Hacher, Radio Amateur, Developer, Content creator  and Teacher!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate with other Developers
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love Computers, The Internet, Two Way Radio, Electronics And Blonde Women.🤣
+
+### 📺 Latest YouTube Videos
+
+
+</details>
+
+[youtube]: https://www.youtube.com/channel/UChsvCpuR1VJg0w5DX9j5GsA
