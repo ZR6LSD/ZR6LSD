@@ -4,7 +4,7 @@
 ### Hi there, I'm Dave
 
 
-## I'm a Hackers, Radio Amateur, Developer, Content creator  and Teacher!!
+## I'm a Hacker, Radio Amateur, Developer, Content creator  and Teacher!!
 
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
