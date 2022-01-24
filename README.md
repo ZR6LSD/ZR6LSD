@@ -1,3 +1,6 @@
+
+![](https://github.com/ZR6LSD/ZR6LSD/blob/main/lsd.JPG)
+
 ### Hi there, I'm Dave
 
 
@@ -9,7 +12,10 @@
 
 ### 📺 Latest YouTube Videos
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZR6LSD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/hsvCpuR1VJg0w5DX9j5GsA)  
 
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZR6LSD)](https://github.com/anuraghazra/github-readme-stats)
 
-[youtube]: https://www.youtube.com/channel/UChsvCpuR1VJg0w5DX9j5GsA
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZR6LSD&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/ZR6LSD)  
