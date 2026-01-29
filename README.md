@@ -1,5 +1,5 @@
 
-![](https://github.com/ZR6LSD/ZR6LSD/blob/main/lsd.jpg)
+![](https://github.com/ZR6LSD/ZR6LSD/blob/main/lsd.png)
 
 ### Hi there, I'm Dave
 
