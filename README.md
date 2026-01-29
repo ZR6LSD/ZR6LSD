@@ -7,7 +7,7 @@
 ## I'm a Hacker, Radio Amateur, Developer, Content creator  and Teacher!!
 
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Computers, The Internet, Two Way Radio, Electronics And Blonde Women.🤣
 
 ### 📺 Latest YouTube Videos
